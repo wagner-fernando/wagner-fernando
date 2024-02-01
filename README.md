@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wagner-fernando.wagner-fernando" /> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=timesnewroman&weight=1000&size=40&pause=800&color=F7F7F7&random=true&height=70&lines=Hi+There!👋;I'm+Wagner!😊" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=1000&size=40&pause=800&color=F7F7F7&random=true&height=70&lines=Hi+There!👋;I'm+Wagner!😊" alt="Typing SVG" /></a>
 
 ---
 
