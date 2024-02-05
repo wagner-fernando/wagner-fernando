@@ -4,8 +4,9 @@
   
 ---
 
-* A passionate Data Science student from Brazil
+* A passionate tecnologie and Data Science student from Brazil
 * Learning Python, machine leraning and AI
+* I am in constant search for better learning, in order to actually solve problems in the real world 
   
 ---  
 
